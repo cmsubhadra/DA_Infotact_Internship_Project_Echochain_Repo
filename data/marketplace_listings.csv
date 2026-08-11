@@ -1,0 +1,27 @@
+listing_id,title,matched_sku,listing_type,condition,price,seller,listing_date
+M001,EcoBook Pro 14 Laptop 16GB,LAP1001,product,Good,42000,Seller_A,2026-07-01
+M002,EcoBook Pro14 i7 Used Laptop,LAP1001,product,Used,38000,Seller_B,2026-07-03
+M003,Eco Book Pro 14 Screen Display,LAP1001,component,Used,9000,Seller_C,2026-07-05
+M004,EcoBook Pro 14 Battery Original,LAP1001,component,Used,4000,Seller_D,2026-07-06
+M005,EcoBook Pro 14 Motherboard,LAP1001,component,For Parts,2200,Seller_E,2026-07-07
+M006,EcoBook Air 13 Laptop,LAP1002,product,Good,36000,Seller_F,2026-07-02
+M007,EcoBook Air13 13-inch Used,LAP1002,product,Fair,32000,Seller_G,2026-07-04
+M008,EcoBook Air 13 Display Panel,LAP1002,component,Used,8200,Seller_H,2026-07-08
+M009,EcoBook Basic 15 Laptop,LAP1003,product,Good,26000,Seller_I,2026-07-02
+M010,EcoBook Basic15 Used Notebook,LAP1003,product,Used,23000,Seller_J,2026-07-09
+M011,EcoBook Basic 15 Battery,LAP1003,component,Used,3000,Seller_K,2026-07-10
+M012,EcoBook Pro 16 16-inch Laptop,LAP1004,product,Good,57000,Seller_L,2026-07-01
+M013,EcoBook Pro16 Used 32GB,LAP1004,product,Good,61000,Seller_M,2026-07-11
+M014,EcoBook Pro 16 Display,LAP1004,component,Used,11500,Seller_N,2026-07-12
+M015,EcoBook Air 15 Laptop,LAP1005,product,Used,39000,Seller_O,2026-07-03
+M016,EcoBook Air15 i5 Laptop,LAP1005,product,Fair,35000,Seller_P,2026-07-13
+M017,EcoBook Pro 13 Laptop,LAP1006,product,Good,33000,Seller_Q,2026-07-04
+M018,EcoBook Pro13 Battery,LAP1006,component,Used,3800,Seller_R,2026-07-14
+M019,EcoBook Basic 14 Laptop,LAP1007,product,Fair,21000,Seller_S,2026-07-05
+M020,EcoBook Basic14 Used,LAP1007,product,Parts,15000,Seller_T,2026-07-15
+M021,EcoBook Pro 15 Laptop,LAP1008,product,Good,47000,Seller_U,2026-07-06
+M022,EcoBook Pro15 16GB Used,LAP1008,product,Used,44000,Seller_V,2026-07-16
+M023,EcoBook Air 14 Laptop,LAP1009,product,Good,34000,Seller_W,2026-07-07
+M024,EcoBook Air14 Used Notebook,LAP1009,product,Used,30000,Seller_X,2026-07-17
+M025,EcoBook Basic 13 Laptop,LAP1010,product,Fair,18000,Seller_Y,2026-07-08
+M026,EcoBook Basic13 For Parts,LAP1010,product,For Parts,12000,Seller_Z,2026-07-18
