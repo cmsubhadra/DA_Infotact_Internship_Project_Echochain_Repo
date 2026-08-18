@@ -25,3 +25,77 @@ M023,EcoBook Air 14 Laptop,LAP1009,product,Good,34000,Seller_W,2026-07-07
 M024,EcoBook Air14 Used Notebook,LAP1009,product,Used,30000,Seller_X,2026-07-17
 M025,EcoBook Basic 13 Laptop,LAP1010,product,Fair,18000,Seller_Y,2026-07-08
 M026,EcoBook Basic13 For Parts,LAP1010,product,For Parts,12000,Seller_Z,2026-07-18
+M027,EcoBook Ultra 15 Laptop - Excellent,LAP1011,product,Excellent,61000,Seller_A,2026-05-01
+M028,EcoBook Ultra 15 Laptop - Good,LAP1011,product,Good,54900,Seller_B,2026-05-08
+M029,EcoBook Ultra 15 Laptop - Fair,LAP1011,product,Fair,47600,Seller_C,2026-05-15
+M030,EcoBook Pro Max 14 Laptop - Good,LAP1012,product,Good,60300,Seller_B,2026-06-02
+M031,EcoBook Pro Max 14 Laptop - Fair,LAP1012,product,Fair,52300,Seller_C,2026-06-09
+M032,EcoBook Pro Max 14 Laptop - Used,LAP1012,product,Used,46900,Seller_D,2026-06-16
+M033,EcoBook Air Plus 13 Laptop - Fair,LAP1013,product,Fair,36700,Seller_C,2026-07-03
+M034,EcoBook Air Plus 13 Laptop - Used,LAP1013,product,Used,32900,Seller_D,2026-07-10
+M035,EcoBook Air Plus 13 Laptop - Excellent,LAP1013,product,Excellent,47000,Seller_E,2026-07-17
+M036,EcoBook Studio 16 Laptop - Used,LAP1014,product,Used,51100,Seller_D,2026-05-04
+M037,EcoBook Studio 16 Laptop - Excellent,LAP1014,product,Excellent,73000,Seller_E,2026-05-11
+M038,EcoBook Studio 16 Laptop - Good,LAP1014,product,Good,65700,Seller_F,2026-05-18
+M039,EcoBook Basic Plus 15 Laptop - Excellent,LAP1015,product,Excellent,36000,Seller_E,2026-06-05
+M040,EcoBook Basic Plus 15 Laptop - Good,LAP1015,product,Good,32400,Seller_F,2026-06-12
+M041,EcoBook Basic Plus 15 Laptop - Fair,LAP1015,product,Fair,28100,Seller_A,2026-06-19
+M042,EcoBook Pro X 14 Laptop - Good,LAP1016,product,Good,63000,Seller_F,2026-07-06
+M043,EcoBook Pro X 14 Laptop - Fair,LAP1016,product,Fair,54600,Seller_A,2026-07-13
+M044,EcoBook Pro X 14 Laptop - Used,LAP1016,product,Used,49000,Seller_B,2026-07-20
+M045,EcoBook Air X 15 Laptop - Fair,LAP1017,product,Fair,40600,Seller_A,2026-05-07
+M046,EcoBook Air X 15 Laptop - Used,LAP1017,product,Used,36400,Seller_B,2026-05-14
+M047,EcoBook Air X 15 Laptop - Excellent,LAP1017,product,Excellent,52000,Seller_C,2026-05-21
+M048,EcoBook Studio 14 Laptop - Used,LAP1018,product,Used,38500,Seller_B,2026-06-08
+M049,EcoBook Studio 14 Laptop - Excellent,LAP1018,product,Excellent,55000,Seller_C,2026-06-15
+M050,EcoBook Studio 14 Laptop - Good,LAP1018,product,Good,49500,Seller_D,2026-06-22
+M051,EcoBook Basic 16 Laptop - Excellent,LAP1019,product,Excellent,39000,Seller_C,2026-07-09
+M052,EcoBook Basic 16 Laptop - Good,LAP1019,product,Good,35100,Seller_D,2026-07-16
+M053,EcoBook Basic 16 Laptop - Fair,LAP1019,product,Fair,30400,Seller_E,2026-07-23
+M054,EcoBook Pro X 16 Laptop - Good,LAP1020,product,Good,71100,Seller_D,2026-05-10
+M055,EcoBook Pro X 16 Laptop - Fair,LAP1020,product,Fair,61600,Seller_E,2026-05-17
+M056,EcoBook Pro X 16 Laptop - Used,LAP1020,product,Used,55300,Seller_F,2026-05-24
+M057,EcoBook Air Lite 13 Laptop - Fair,LAP1021,product,Fair,26500,Seller_E,2026-06-11
+M058,EcoBook Air Lite 13 Laptop - Used,LAP1021,product,Used,23800,Seller_F,2026-06-18
+M059,EcoBook Air Lite 13 Laptop - Excellent,LAP1021,product,Excellent,34000,Seller_A,2026-06-25
+M060,EcoBook Pro Lite 15 Laptop - Used,LAP1022,product,Used,34300,Seller_F,2026-07-12
+M061,EcoBook Pro Lite 15 Laptop - Excellent,LAP1022,product,Excellent,49000,Seller_A,2026-07-19
+M062,EcoBook Pro Lite 15 Laptop - Good,LAP1022,product,Good,44100,Seller_B,2026-07-26
+M063,EcoBook Ultra 14 Laptop - Excellent,LAP1023,product,Excellent,64000,Seller_A,2026-05-13
+M064,EcoBook Ultra 14 Laptop - Good,LAP1023,product,Good,57600,Seller_B,2026-05-20
+M065,EcoBook Ultra 14 Laptop - Fair,LAP1023,product,Fair,49900,Seller_C,2026-05-01
+M066,EcoBook Studio 15 Laptop - Good,LAP1024,product,Good,53100,Seller_B,2026-06-14
+M067,EcoBook Studio 15 Laptop - Fair,LAP1024,product,Fair,46000,Seller_C,2026-06-21
+M068,EcoBook Studio 15 Laptop - Used,LAP1024,product,Used,41300,Seller_D,2026-06-02
+M069,EcoBook Basic X 14 Laptop - Fair,LAP1025,product,Fair,27300,Seller_C,2026-07-15
+M070,EcoBook Basic X 14 Laptop - Used,LAP1025,product,Used,24500,Seller_D,2026-07-22
+M071,EcoBook Basic X 14 Laptop - Excellent,LAP1025,product,Excellent,35000,Seller_E,2026-07-03
+M072,EcoBook Pro X 13 Laptop - Used,LAP1026,product,Used,37100,Seller_D,2026-05-16
+M073,EcoBook Pro X 13 Laptop - Excellent,LAP1026,product,Excellent,53000,Seller_E,2026-05-23
+M074,EcoBook Pro X 13 Laptop - Good,LAP1026,product,Good,47700,Seller_F,2026-05-04
+M075,EcoBook Air Max 15 Laptop - Excellent,LAP1027,product,Excellent,57000,Seller_E,2026-06-17
+M076,EcoBook Air Max 15 Laptop - Good,LAP1027,product,Good,51300,Seller_F,2026-06-24
+M077,EcoBook Air Max 15 Laptop - Fair,LAP1027,product,Fair,44500,Seller_A,2026-06-05
+M078,EcoBook Studio X 16 Laptop - Good,LAP1028,product,Good,68400,Seller_F,2026-07-18
+M079,EcoBook Studio X 16 Laptop - Fair,LAP1028,product,Fair,59300,Seller_A,2026-07-25
+M080,EcoBook Studio X 16 Laptop - Used,LAP1028,product,Used,53200,Seller_B,2026-07-06
+M081,EcoBook Basic Lite 13 Laptop - Fair,LAP1029,product,Fair,23400,Seller_A,2026-05-19
+M082,EcoBook Basic Lite 13 Laptop - Used,LAP1029,product,Used,21000,Seller_B,2026-05-26
+M083,EcoBook Basic Lite 13 Laptop - Excellent,LAP1029,product,Excellent,30000,Seller_C,2026-05-07
+M084,EcoBook Pro Ultra 15 Laptop - Used,LAP1030,product,Used,52500,Seller_B,2026-06-20
+M085,EcoBook Pro Ultra 15 Laptop - Excellent,LAP1030,product,Excellent,75000,Seller_C,2026-06-01
+M086,EcoBook Pro Ultra 15 Laptop - Good,LAP1030,product,Good,67500,Seller_D,2026-06-08
+M087,EcoBook Ultra 15 Motherboard Replacement,LAP1011,component,Used,15500,Seller_D,2026-08-10
+M088,EcoBook Pro Max 14 Display Replacement,LAP1012,component,Used,12500,Seller_E,2026-08-13
+M089,EcoBook Air Plus 13 Battery Replacement,LAP1013,component,Used,4500,Seller_F,2026-08-16
+M090,EcoBook Studio 16 Motherboard Replacement,LAP1014,component,Used,18500,Seller_A,2026-08-19
+M091,EcoBook Basic Plus 15 SSD Replacement,LAP1015,component,Used,3300,Seller_B,2026-08-22
+M092,EcoBook Pro X 14 Battery Replacement,LAP1016,component,Used,6200,Seller_C,2026-08-25
+M093,EcoBook Air X 15 Display Replacement,LAP1017,component,Used,9000,Seller_D,2026-08-28
+M094,EcoBook Studio 14 Keyboard Replacement,LAP1018,component,Used,2200,Seller_E,2026-08-03
+M095,EcoBook Basic 16 Cooling Fan Replacement,LAP1019,component,Used,1500,Seller_F,2026-08-06
+M096,EcoBook Pro X 16 Motherboard Replacement,LAP1020,component,Used,20000,Seller_A,2026-08-09
+M097,EcoBook Air Lite 13 SSD Replacement,LAP1021,component,Used,3000,Seller_B,2026-08-12
+M098,EcoBook Ultra 14 Battery Replacement,LAP1023,component,Used,5800,Seller_C,2026-08-15
+M099,EcoBook Air Max 15 Display Replacement,LAP1027,component,Used,10500,Seller_D,2026-08-18
+M100,EcoBook Pro Ultra 15 Motherboard Replacement,LAP1030,component,Used,19000,Seller_E,2026-08-21
