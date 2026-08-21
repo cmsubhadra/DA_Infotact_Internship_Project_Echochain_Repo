@@ -92,45 +92,45 @@ EchoChain/
 ---
 
 ## ✅ Week 1 Progress
-             
-•     Created the EchoChain project structure and local data folder in VS Code.
-•     Prepared Products, BOM, Warranty, and Marketplace datasets.
-•     Created a Python 3.11.3 virtual environment.
-•     Installed and configured Scrapy 2.17.0.
-•     Created the Scrapy project and Marketplace spider.
-•     Generated marketplace_scraped.json with 26 marketplace records.
-•     Created the Databricks Free Edition workspace.
-•     Created Bronze tables for Products, BOM, Warranty, and Marketplace.
-•     Established the initial Delta Lake Bronze storage foundation.
-•     Created and verified the Databricks Serverless Starter Warehouse.
-•     Configured the Databricks SQL connection for Power BI Desktop.
-•     Connected Power BI Desktop to the Databricks SQL Warehouse.
-•     Loaded bronze_bom and bronze_warranty into Power BI.
-•     Verified the available BOM and Warranty fields for the initial BI model.
-•     The initial Power BI model was connected to the Databricks Bronze layer and included:
-      BOM data
-      Warranty data
-      The available fields were verified as the foundation for the upcoming data modelling and analytics stages.
+
+* Created the EchoChain project structure and local data folder in VS Code.
+* Prepared Products, BOM, Warranty, and Marketplace datasets.
+* Created a Python 3.11.3 virtual environment.
+* Installed and configured Scrapy 2.17.0.
+* Created the Scrapy project and Marketplace spider.
+* Generated `marketplace_scraped.json` with 26 marketplace records.
+* Created the Databricks Free Edition workspace.
+* Created Bronze tables for Products, BOM, Warranty, and Marketplace.
+* Established the initial Delta Lake Bronze storage foundation.
+* Created and verified the Databricks Serverless Starter Warehouse.
+* Configured the Databricks SQL connection for Power BI Desktop.
+* Connected Power BI Desktop to the Databricks SQL Warehouse.
+* Loaded `bronze_bom` and `bronze_warranty` into Power BI.
+* Verified the available BOM and Warranty fields for the initial BI model.
+* The initial Power BI model was connected to the Databricks Bronze layer and included:
+
+  * BOM data
+  * Warranty data
+* The available fields were verified as the foundation for the upcoming data modelling and analytics stages.
 
 ## ✅ Week 2 Progress
 
-•	Created separate Databricks notebooks for Silver-layer processing.
-•	Created and validated the silver_products table.
-•	Created and validated the silver_bom table.
-•	Created and validated the silver_warranty table.
-•	Created and validated the silver_marketplace table.
-•	Checked schemas, missing values, duplicate records, and data types.
-•	Standardized SKU and component identifiers for reliable relationships.
-•	Validated warranty failure_rate values; no records with failure_rate greater than 1 were found.
-•	Prepared cleaned Silver tables for downstream matching and analytics.
-•	Connected Power BI Desktop to the Databricks environment.
-•	Prepared the Power BI model using silver_products, silver_bom, silver_warranty, and silver_marketplace.
-•	Created the Products → BOM relationship using sku.
-•	Created the Products → Warranty relationship using sku.
-•	Created the Products → Marketplace relationship using sku and matched_sku.
-•	Used silver_products as the central product-level table for the BI model.
-•	Prepared product, component, warranty, and marketplace analysis visuals.
-•	Prepared product-level filtering to verify that related BOM, Warranty, and Marketplace data respond correctly.
+* Created separate Databricks notebooks for Silver-layer processing.
+* Created and validated the `silver_products` table.
+* Created and validated the `silver_bom` table.
+* Created and validated the `silver_warranty` table.
+* Created and validated the `silver_marketplace` table.
+* Checked schemas, missing values, duplicate records, and data types.
+* Standardized SKU and component identifiers for reliable relationships.
+* Validated warranty `failure_rate` values; no records with `failure_rate` greater than 1 were found.
+* Prepared cleaned Silver tables for downstream matching and analytics.
+* Connected Power BI Desktop to the Databricks environment.
+* Prepared the Power BI model using `silver_products`, `silver_bom`, `silver_warranty`, and `silver_marketplace`.
+* Created the Products → BOM relationship using `sku`.
+* Created the Products → Warranty relationship using `sku`.
+* Created the Products → Marketplace relationship using `sku` and `matched_sku`.
+* Used `silver_products` as the central product-level table for the BI model.
+* Prepared product-level filtering to verify that related BOM, Warranty, and Marketplace data respond correctly.
 
 
 ## 📚 Learning Outcomes
