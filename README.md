@@ -136,7 +136,7 @@ EchoChain/
 
 * Implemented fuzzy matching between marketplace listings and internal product/SKU data.
 * Used token-based similarity, Levenshtein similarity, and model/size matching to identify the best product match.
-*Combined matching signals using a weighted matching score and selected the best matching SKU for each marketplace listing.
+* Combined matching signals using a weighted matching score and selected the best matching SKU for each marketplace listing.
 * Created the Gold base dataset by combining fuzzy-matching results with marketplace and product information.
 * Calculated secondary-market depreciation using original price and secondary-market price.
 * Combined BOM and Warranty information for component-level lifecycle analysis.
