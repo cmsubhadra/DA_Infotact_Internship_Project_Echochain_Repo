@@ -132,6 +132,27 @@ EchoChain/
 * Used `silver_products` as the central product-level table for the BI model.
 * Prepared product-level filtering to verify that related BOM, Warranty, and Marketplace data respond correctly.
 
+## ✅ Week 3 Progress
+
+* Implemented fuzzy matching between marketplace listings and internal product/SKU data.
+* Used token-based similarity, Levenshtein similarity, and model/size matching to identify the best product match.
+* Combined matching signals using a weighted matching score and selected the best matching SKU for each marketplace listing.
+* Created the Gold base dataset by combining fuzzy-matching results with marketplace and product information.
+* Calculated secondary-market depreciation using original price and secondary-market price.
+* Combined BOM and Warranty information for component-level lifecycle analysis.
+* Created component-level metrics and aggregated them to the SKU level.
+* Calculated Total Component Cost, Weighted Failure Cost, and Component Reliability Score.
+* Calculated Resale Retention Score.
+* Created the proposed Circularity Score using resale retention and component reliability.
+* Created and validated the final Gold analytics dataset.
+* Saved the final Gold analytics table as `workspace.default.gold_echochain_analytics`.
+* Created a new Power BI report for the Week 3 Gold-layer analytics.
+* Connected the final `gold_echochain_analytics` table to Power BI.
+* Created a DAX measure for Average Secondary Market Depreciation.
+* Created a DAX measure for Average Circularity Score.
+* Created a KPI for Average Secondary Market Depreciation.
+* Created a KPI for Average Circularity Score.
+
 
 ## 📚 Learning Outcomes
 
@@ -157,9 +178,9 @@ Circular Economy Analytics
 
 🟢 Week 2 – Completed
 
-🟡 Week 3 – In Progress
+🟡 Week 3 – Completed
 
-⚪ Week 4 – Upcoming
+⚪ Week 4 – In Progress
 
 
 
