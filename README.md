@@ -153,7 +153,6 @@ EchoChain/
 * Created a KPI for Average Secondary Market Depreciation.
 * Created a KPI for Average Circularity Score.
 
-
 ## 📚 Learning Outcomes
 
 This project provides practical experience in:
