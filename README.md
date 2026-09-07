@@ -314,10 +314,10 @@ The final dashboard brings together product lifecycle, secondary-market, compone
 
 Contains the initial/raw datasets stored in Delta Lake:
 
-- Products
-- BOM
-- Warranty
-- Marketplace
+- `bronze_products`
+- `bronze_bom`
+- `bronze_warranty`
+- `bronze_marketplace`
 
 ### Silver Layer
 
@@ -327,14 +327,13 @@ Contains cleaned and validated datasets:
 - `silver_bom`
 - `silver_warranty`
 - `silver_marketplace`
+- `silver_fuzzy_matching`
 
 ### Gold Layer
 
 Contains the final analytics-ready dataset:
 
-```text
-gold_echochain_analytics
-```
+- `gold_echochain_analytics`
 
 The Gold layer combines product, marketplace, BOM, and warranty information with calculated lifecycle and circularity metrics.
 
